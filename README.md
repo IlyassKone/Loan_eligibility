@@ -4,6 +4,7 @@
 - Git
 - Python/Jupyter Notebook
 - Data Visualisation
+- Modelling : Logistic Regression and Random Forest
 
 
 
